@@ -6,4 +6,3 @@
 - http://blog.notdot.net/2010/07/Getting-unicode-right-in-Python
 
 
-
