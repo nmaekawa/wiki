@@ -11,4 +11,18 @@ hashicorp tools
 have to learn these! consul and vault
 - https://www.hashicorp.com/
 
+
+blog
+====
+
+pelican
+- http://docs.getpelican.com/en/3.6.0/quickstart.html
+
+
+robot framework
+===============
+
+a integration test framework
+- http://robotframework.org/#introduction
+
 ---eop
